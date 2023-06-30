@@ -1,1 +1,1 @@
-# Stratagem
+# Stratagem - Online Chess Game
